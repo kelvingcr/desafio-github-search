@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">GitHubSearch</string>
+    <string name="app_name" translatable="false">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="preference_file_key" translatable="false">database</string>
+    <string name="erro_requisicao_retrofit">O repositório solicitado não foi encontrado.</string>
 </resources>

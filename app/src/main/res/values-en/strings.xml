@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">User name</string>
+    <string name="confirmar">Confirm</string>
+    <string name="erro_requisicao_retrofit">The requested repository was not found.</string>
+</resources>
